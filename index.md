@@ -2,4 +2,4 @@
 layout: home
 ---
 
-ake Jelly site have a GitBook look!
+Dumping some of my projects here
