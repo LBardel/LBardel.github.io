@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://LBardel.github.io'
-baseurl:          '/'
+url:              'LBardel.github.io'
+baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
 # markdown render engine.
