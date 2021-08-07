@@ -2,6 +2,7 @@
 layout: home
 ---
 
-Dumping some of my projects here
+Dumping my projects here, maybe someone could find something usefull in this pile of trash ;)
+
 
 ![alt text](/pic/istockphoto.jpg)
