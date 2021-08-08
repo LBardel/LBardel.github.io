@@ -6,5 +6,5 @@ Dumping my projects here, maybe someone could find something usefull in this pil
 
 
 <p align="center">
-  <img src="https://github.com/LBardel/LBardel.github.io/blob/master/pic/istockphoto.jpg" />
+  <img src="https://raw.githubusercontent.com/LBardel/LBardel.github.io/master/pic/istockphoto.jpg" />
 </p>
