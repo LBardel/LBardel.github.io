@@ -2,7 +2,8 @@
 layout: home
 ---
 
-Dumping my projects here, maybe someone could find something usefull in this pile of trash ;)
+Welcome to my Blog!
+My name is Lorenzo,  I enjoy working with computers and electronics in general, overtime I will be showcasing my projects here, and my experiments, or just things that I find amusing ;)
 
 
 <p align="center">
